@@ -1,0 +1,14 @@
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.AssemblyInfoInputs.cache
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.AssemblyInfo.cs
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.csproj.CoreCompileInputs.cache
+C:\Users\suman\C# Projects\Student Task Tracker\bin\Debug\net8.0\Student Task Tracker.exe
+C:\Users\suman\C# Projects\Student Task Tracker\bin\Debug\net8.0\Student Task Tracker.deps.json
+C:\Users\suman\C# Projects\Student Task Tracker\bin\Debug\net8.0\Student Task Tracker.runtimeconfig.json
+C:\Users\suman\C# Projects\Student Task Tracker\bin\Debug\net8.0\Student Task Tracker.dll
+C:\Users\suman\C# Projects\Student Task Tracker\bin\Debug\net8.0\Student Task Tracker.pdb
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.dll
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\refint\Student Task Tracker.dll
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.pdb
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\Student Task Tracker.genruntimeconfig.cache
+C:\Users\suman\C# Projects\Student Task Tracker\obj\Debug\net8.0\ref\Student Task Tracker.dll
